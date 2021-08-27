@@ -1,0 +1,19 @@
+Ref
+
+Methods Syntax :
+
+Controller :
+
+
+Model : 
+*One to Many Relation  > https://www.itsolutionstuff.com/post/laravel-one-to-many-eloquent-relationship-tutorialexample.html
+
+
+
+View :
+
+
+Route :
+
+
+
